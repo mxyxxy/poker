@@ -1,0 +1,1 @@
+scp -P 22 -r /Users/laojiang/Desktop/work/game/cocosCreator/poker/Server root@118.25.191.125:/workspace/node
